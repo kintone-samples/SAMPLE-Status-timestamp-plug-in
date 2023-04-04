@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "version": 1,
+  "version": "1.1.0",
   "type": "APP",
   "desktop": {
     "js": [
@@ -12,8 +12,8 @@
     "html": "html/config.html",
     "js": [
       "https://js.cybozu.com/jquery/3.3.1/jquery.min.js",
-      "js/config.js",
-      "js/kintone-config-helper.js"
+      "js/kintone-config-helper.js",
+      "js/config.js"
     ],
     "css": [
       "css/51-modern-default.css",
@@ -32,6 +32,6 @@
     "en": "This plug-in inserts the date (and time) that a record reached a specified Status into a Date or Datetime field."
   },
   "homepage_url": {
-    "en": "https://developer.kintone.io/hc/en-us/articles/360000502641"
+    "en": "https://kintone.dev/en/plugins/simple-samples/status-timestamp-plug-in/"
   }
 }
