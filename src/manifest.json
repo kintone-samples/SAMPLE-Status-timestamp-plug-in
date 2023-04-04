@@ -32,6 +32,6 @@
     "en": "This plug-in inserts the date (and time) that a record reached a specified Status into a Date or Datetime field."
   },
   "homepage_url": {
-    "en": "https://developer.kintone.io/hc/en-us/articles/360000502641"
+    "en": "https://kintone.dev/en/plugins/simple-samples/status-timestamp-plug-in/"
   }
 }
